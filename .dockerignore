@@ -1,0 +1,16 @@
+venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.log
+.git
+.gitignore
+data/new_articles.csv
+data/cleaned_new_articles.csv
+data/new_chunks.csv
+logs
+node_modules
+
+
+
