@@ -7,7 +7,7 @@
 ![Docker](https://img.shields.io/badge/Docker-Deployment-blue)
 
 
-# ⚫ Black Hole AI Assistant
+
 
 An AI-powered assistant that answers space and black hole related questions using a **Retrieval Augmented Generation (RAG)** pipeline.
 
