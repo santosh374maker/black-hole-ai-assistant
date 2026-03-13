@@ -1,3 +1,12 @@
+# ⚫Black Hole AI Assistant
+
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
+![Streamlit](https://img.shields.io/badge/Streamlit-UI-red)
+![FAISS](https://img.shields.io/badge/FAISS-VectorDB-orange)
+![Docker](https://img.shields.io/badge/Docker-Deployment-blue)
+
+
 # ⚫ Black Hole AI Assistant
 
 An AI-powered assistant that answers space and black hole related questions using a **Retrieval Augmented Generation (RAG)** pipeline.
@@ -6,18 +15,22 @@ The system retrieves relevant scientific knowledge from a curated dataset and ge
 
 ---
 
-# 🧠 Features
+## Interface
 
-- RAG-based question answering
-- Vector similarity search using FAISS
-- Cross-encoder reranking for improved retrieval
-- FastAPI backend for scalable inference
-- Streamlit chat interface
-- Conversation memory
-- Automatic knowledge base updates
-- Docker support for deployment
+![UI Screenshot](assets/ui.png)
 
----
+## Demo
+https://youtu.be/_tGzLKPYW6E?si=U59ZcaED7tEiEkVL
+
+## Features
+
+• Retrieval Augmented Generation (RAG) architecture  
+• FAISS vector database for fast document search  
+• Cross-encoder reranking for better context retrieval  
+• FastAPI backend for scalable AI APIs  
+• Streamlit chat interface  
+• Supports Groq API and local Ollama models  
+• Automatic knowledge base update agent
 
 # 🏗️ System Architecture
 
