@@ -6,6 +6,7 @@ import faiss
 import os
 import requests
 from sentence_transformers import SentenceTransformer, CrossEncoder
+from groq import Groq
 
 app = FastAPI()
 
