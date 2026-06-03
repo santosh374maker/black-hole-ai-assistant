@@ -20,7 +20,7 @@ The system retrieves relevant scientific knowledge from a curated dataset and ge
 ![UI Screenshot](assets/ui.png)
 
 ## Demo
-https://youtu.be/_tGzLKPYW6E?si=U59ZcaED7tEiEkVL
+youtube-link - https://youtu.be/_tGzLKPYW6E?si=U59ZcaED7tEiEkVL
 
 ## Features
 
