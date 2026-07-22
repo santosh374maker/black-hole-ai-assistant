@@ -8,7 +8,7 @@ from sentence_transformers import SentenceTransformer
 df = pd.read_csv("../data/chunks.csv")
 chunks = df["chunk"].tolist()
 
-# load FAISS index
+# load FAISS vector store index
 index = faiss.read_index("../data/vector_db.index")
 
 # load embedding model
